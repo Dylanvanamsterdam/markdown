@@ -4,9 +4,9 @@
 | Content bronnen diorama 	| Visualisatie                                                            	|
 |----------	|-------------------------------------------------------------------------	|
 | Foto’s   	| Foto’s van de vervuiling van de duinen ( huidig diorama, nu, 2050)      	|
-| Animatie 	| Animatie van foto’s van het ARTIS archief waarmee we een animatie,maken 	|
 | Tekst    	| Titels van de status van het diorama (eigen inbreng)                    	|
 | Geluid   	| Opmerkingen over de status van het diorama                              	|
+| Scherm    | Interactief bord met procesomschrijving                                   |
 
 
 
